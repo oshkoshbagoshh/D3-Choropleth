@@ -4,7 +4,7 @@ This project is a choropleth map that visualizes the educational attainment in t
 
 ## Live Demo
 
-You can view the live demo of this project [here](https://stackblitz.com/edit/stackblitz-starters-fr8byy?file=README.md).
+You can view the live demo of this project [here](https://stackblitz.com/edit/chroropleth-map?file=README.md).
 
 ## User Stories
 
